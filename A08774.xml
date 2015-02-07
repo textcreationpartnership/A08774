@@ -207,16 +207,19 @@ the Polare circles are called <hi>Temperate
 Zones:</hi> and the other two vnder either
 Pole are called <hi>colde Zones.</hi>
                </p>
-               <figure>
-                  <figDesc>geographical zones</figDesc>
-                  <p>MERIDIES.
+               <p>
+                  <pb facs="tcp:21562:4"/>
+                  <figure>
+                     <figDesc>geographical zones</figDesc>
+                     <p>MERIDIES.
 A ZONA FRIGIDA.
 B ZONA TEMPERATAAVS.
 C ZONA<g ref="char:EOLhyphen"/>TORRIDA.
 D ZONA TEMPERATA BOR. 
 E ZONA FRIGIDA. E
 SEPTENTRIO</p>
-               </figure>
+                  </figure>
+               </p>
             </div>
             <div type="part">
                <head>2 Of the Longitude and Latitude.</head>
